@@ -1,10 +1,5 @@
-## Table of Contents
-* [General Info](#general-info)
-* [Demo](#demo)
-* [Future Updates](#future-updates)
-
 ## General Info
-Keep easily track of your <b>money balance</b> at every <b>Monopoly game</b> of yours.
+Keep easily track of your <b>money balance</b> at every <b>Monopoly game</b>.
 
 ## Demo
 By visiting the <i>balance.html</i> page you can:
@@ -14,11 +9,3 @@ By visiting the <i>balance.html</i> page you can:
 * Every transaction made is listed below the total money balance.
 
 <b>Note</b> that refreshing the page resets the whole board!
-
-If you want to start the game with a <b>different amount of money</b>, you can just add or subtract the amount you have in mind!
-
-
-![Demo Screenshot from the index page](https://github.com/Ntelos/Monopoly-Money-Balance/blob/main/demo_screenshot.png?raw=true)
-
-## Future Updates
-* Sticky table header when scrolling
