@@ -9,3 +9,5 @@ By visiting the <i>balance.html</i> page you can:
 * Every transaction made is listed below the total money balance.
 
 <b>Note</b> that refreshing the page resets the whole board!
+
+![Demo Screenshot from the index page](https://github.com/Ntelos/Monopoly-Money-Balance/blob/main/demo_screenshot.png?raw=true)
